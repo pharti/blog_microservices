@@ -1,3 +1,3 @@
-#Blog Microservice
+# Blog Microservice
 
-Learning microservices by creating a blogging website.
+A brief description of what this project does and who it's for
