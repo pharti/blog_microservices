@@ -1,3 +1,3 @@
 # Blog Microservice
 
-A brief description of what this project does and who it's for
+Learning microservices architecture by creating a blogging site 
